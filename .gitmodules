@@ -1,3 +1,6 @@
 [submodule "pointnet"]
 	path = pointnet
 	url = https://github.com/dyisaev/pointnet.git
+[submodule "CommonUtils3D"]
+	path = CommonUtils3D
+	url = https://github.com/dyisaev/CommonUtils3D.git

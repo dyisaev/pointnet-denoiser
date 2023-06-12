@@ -1,1 +1,4 @@
 sandbox-data
+sandbox-code
+.ipynb_checkpoints
+.vscode
