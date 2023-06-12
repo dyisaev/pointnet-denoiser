@@ -2,3 +2,4 @@ sandbox-data
 sandbox-code
 .ipynb_checkpoints
 .vscode
+nn/__pycache__
